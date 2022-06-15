@@ -102,8 +102,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Acada Learning Snapshot Nexus Repository </name>
-	      <url><http://192.168.238.129:8081/repository/rbc-snapshot/</url>
+	      <name>Acada Learning Snapshot Nexus Repository</name>
+	      <url>http://192.168.238.129:8081/repository/rbc-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
